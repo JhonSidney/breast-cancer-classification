@@ -1,0 +1,18 @@
+import time
+
+print ('\n\nESTE ARQUIVO FOI ACESSADO COM SUCESSO')
+time.sleep(1)
+print ('\n\nESTE ARQUIVO FOI ACESSADO COM SUCESSO')
+time.sleep(1)
+print ('\n\nESTE ARQUIVO FOI ACESSADO COM SUCESSO')
+time.sleep(1)
+print ('\n3')
+time.sleep(1)
+print ('\n2')
+time.sleep(1)
+print ('\n1')
+time.sleep(1)
+print ('\n0')
+time.sleep(1)
+print ('\nfim de codigo ')
+time.sleep(1)
